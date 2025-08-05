@@ -77,6 +77,9 @@ local scripts = {
         GAME_ID = 110931811137535,
         SCRIPT = "https://raw.githubusercontent.com/JScripter-Lua/Saturn_Hub_Products/refs/heads/main/Saturn_Loader.lua"
     },
+    {   TEXT_Thumbnail = "Forsaken (Free)", -- Open Source
+        GAME_ID = 18687417158,
+        SCRIPT = "https://raw.githubusercontent.com/JScripter-Lua/Saturn_Open_Source/refs/heads/main/Saturn_Forsaken.lua"
     {
         TEXT_Thumbnail = "DIG (Discontinue)", -- Open Source
         GAME_ID = 126244816328678,
